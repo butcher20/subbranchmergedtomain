@@ -51,10 +51,14 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void thisWasCreatedInTheMainBranch() {
-        //hello
+        //this message was created after sub brnach was made and pushed.
     }
 
     public void createdInSubBrnach() {
+
+    }
+
+    public void secondMethod() {
 
     }
 

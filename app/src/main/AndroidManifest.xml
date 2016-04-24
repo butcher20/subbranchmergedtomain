@@ -25,6 +25,10 @@
         <activity
             android:name=".CreatedinSub"
             android:label="@string/title_activity_createdin_sub"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".TheBestActivity"
+            android:label="@string/title_activity_the_best"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
