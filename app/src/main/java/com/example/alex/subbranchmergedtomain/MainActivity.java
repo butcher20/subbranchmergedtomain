@@ -53,4 +53,9 @@ public class MainActivity extends AppCompatActivity {
     public void thisWasCreatedInTheMainBranch() {
         //hello
     }
+
+    public void createdInSubBrnach() {
+
+    }
+
 }

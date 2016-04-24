@@ -21,6 +21,10 @@
         <activity
             android:name=".CreatedInMain"
             android:label="@string/title_activity_created_in_main"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".CreatedinSub"
+            android:label="@string/title_activity_createdin_sub"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
